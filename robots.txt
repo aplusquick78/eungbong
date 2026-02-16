@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eungbong.8222quick.com/sitemap.xml
+
+
+
